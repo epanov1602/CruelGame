@@ -3,6 +3,7 @@ Here, the point of the game is to hit an innocent monkey and earn points. That's
 
 # Challenge
 Can the students find a way to edit the code and replace the image of a chimp (`chimp.png`)... with the image of an enemy tank (`tank.gif`) to hit?
+The instructors can at least show how easy it is to do!
 
 ![image](https://github.com/user-attachments/assets/4aeaeff6-7ccf-4f22-b151-08c75b5c1597)
 =>
