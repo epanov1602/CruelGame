@@ -1,5 +1,5 @@
 # Cruel Game
-Here, the point of the game is to hit an innocent monkey and earn points. That's unfair!!!
+Here, the point of the game is to hit an innocent monkey and earn points. That's unfair!!! What can we do???
 
 # Challenge
 Can the students find a way to edit the code and replace the image of a chimp (`chimp.png`)... with the image of an enemy tank (`tank.gif`) to hit?
